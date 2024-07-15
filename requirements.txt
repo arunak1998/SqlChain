@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+streamlit
+faiss-cpu
+pinecone
+sentence-transformers
+cx_Oracle
+langchain_experimental
+langchain_google_genai
